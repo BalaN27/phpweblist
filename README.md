@@ -1,5 +1,6 @@
-Imagine u have XAMP or WAMP etc installed.
-and you store various Website in sub folder.
-Copy paste the content to root like htdocs or public_html.
-so local host opens this page, this page lists all folders with html or page inside.
-acting as an localhost index page with preview.
+Setup:
+Copy contents to Root like htdocs or public_html.
+let your website folder be sibling to sample page it will be visible as a tile.
+Purpose:
+Imagine u have XAMP or WAMP etc installed. and you store various Website desings in sub folder. This index page will scan the subfolders with index page, and list all webpages with preview to help navigate your design projects.
+
